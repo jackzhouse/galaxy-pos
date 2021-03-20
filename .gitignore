@@ -1,0 +1,49 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.nuxt/
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+# .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+*.todo
+TODO
+anton-note.org
+
+.nuxt/
+.nuxt/App.js
+.nuxt/axios.js
+.nuxt/index.js
+.nuxt/middleware.js
+.nuxt/router.js
+.nuxt/routes.json
+.nuxt/store.js
+.nuxt/auth/plugin.js
+.nuxt/components/nuxt.js
+.nuxt/App.js
+.nuxt/index.js
+.nuxt/middleware.js
+.nuxt/router.js
+.nuxt/routes.json
+.nuxt/store.js
+.nuxt/auth/plugin.js
+.nuxt/components/nuxt.js
+
+/pages/cetak/*
